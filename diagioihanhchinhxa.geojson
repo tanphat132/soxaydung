@@ -10,7 +10,7 @@
 ,"features":[{
     "type": "Feature",
     "properties": {
-        "popupContent":"Thá»‹ tráº¥n Di LÄƒng, Huyá»‡n SÆ¡n HĂ , Tá»‰nh Quáº£ng NgĂ£i",
+        "popupContent":"Thá»‹ tráº¥n Di LÄƒng, Huyá»‡n SÆ¡n HĂ , Tá»‰nh Quáº£ng NgĂ£i"
     },
     "geometry": {
         "type": "MultiPolygon",
@@ -20,7 +20,7 @@
 {
     "type": "Feature",
     "properties": {
-        "popupContent":"XĂ£ SÆ¡n Ba, Huyá»‡n SÆ¡n HĂ , Tá»‰nh Quáº£ng NgĂ£i",
+        "popupContent":"XĂ£ SÆ¡n Ba, Huyá»‡n SÆ¡n HĂ , Tá»‰nh Quáº£ng NgĂ£i"
     },
     "geometry": {
         "type": "MultiPolygon",
@@ -30,7 +30,7 @@
 {
     "type": "Feature",
     "properties": {
-        "popupContent":"XĂ£ SÆ¡n Bao, Huyá»‡n SÆ¡n HĂ , Tá»‰nh Quáº£ng NgĂ£i",
+        "popupContent":"XĂ£ SÆ¡n Bao, Huyá»‡n SÆ¡n HĂ , Tá»‰nh Quáº£ng NgĂ£i"
     },
     "geometry": {
         "type": "MultiPolygon",
@@ -40,7 +40,7 @@
 {
     "type": "Feature",
     "properties": {
-        "popupContent":"XĂ£ SÆ¡n Cao, Huyá»‡n SÆ¡n HĂ , Tá»‰nh Quáº£ng NgĂ£i",
+        "popupContent":"XĂ£ SÆ¡n Cao, Huyá»‡n SÆ¡n HĂ , Tá»‰nh Quáº£ng NgĂ£i"
     },
     "geometry": {
         "type": "MultiPolygon",
@@ -50,7 +50,7 @@
 {
     "type": "Feature",
     "properties": {
-        "popupContent":"XĂ£ SÆ¡n Giang, Huyá»‡n SÆ¡n HĂ , Tá»‰nh Quáº£ng NgĂ£i",
+        "popupContent":"XĂ£ SÆ¡n Giang, Huyá»‡n SÆ¡n HĂ , Tá»‰nh Quáº£ng NgĂ£i"
     },
     "geometry": {
         "type": "MultiPolygon",
@@ -60,7 +60,7 @@
 {
     "type": "Feature",
     "properties": {
-        "popupContent":"XĂ£ SÆ¡n Háº¡, Huyá»‡n SÆ¡n HĂ , Tá»‰nh Quáº£ng NgĂ£i",
+        "popupContent":"XĂ£ SÆ¡n Háº¡, Huyá»‡n SÆ¡n HĂ , Tá»‰nh Quáº£ng NgĂ£i"
     },
     "geometry": {
         "type": "MultiPolygon",
@@ -70,7 +70,7 @@
 {
     "type": "Feature",
     "properties": {
-        "popupContent":"XĂ£ SÆ¡n Háº£i, Huyá»‡n SÆ¡n HĂ , Tá»‰nh Quáº£ng NgĂ£i",
+        "popupContent":"XĂ£ SÆ¡n Háº£i, Huyá»‡n SÆ¡n HĂ , Tá»‰nh Quáº£ng NgĂ£i"
     },
     "geometry": {
         "type": "MultiPolygon",
@@ -80,7 +80,7 @@
 {
     "type": "Feature",
     "properties": {
-        "popupContent":"XĂ£ SÆ¡n Ká»³, Huyá»‡n SÆ¡n HĂ , Tá»‰nh Quáº£ng NgĂ£i",
+        "popupContent":"XĂ£ SÆ¡n Ká»³, Huyá»‡n SÆ¡n HĂ , Tá»‰nh Quáº£ng NgĂ£i"
     },
     "geometry": {
         "type": "MultiPolygon",
@@ -90,7 +90,7 @@
 {
     "type": "Feature",
     "properties": {
-        "popupContent":"XĂ£ SÆ¡n Linh, Huyá»‡n SÆ¡n HĂ , Tá»‰nh Quáº£ng NgĂ£i",
+        "popupContent":"XĂ£ SÆ¡n Linh, Huyá»‡n SÆ¡n HĂ , Tá»‰nh Quáº£ng NgĂ£i"
     },
     "geometry": {
         "type": "MultiPolygon",
@@ -100,7 +100,7 @@
 {
     "type": "Feature",
     "properties": {
-        "popupContent":"XĂ£ SÆ¡n Nham, Huyá»‡n SÆ¡n HĂ , Tá»‰nh Quáº£ng NgĂ£i",
+        "popupContent":"XĂ£ SÆ¡n Nham, Huyá»‡n SÆ¡n HĂ , Tá»‰nh Quáº£ng NgĂ£i"
     },
     "geometry": {
         "type": "MultiPolygon",
@@ -110,7 +110,7 @@
 {
     "type": "Feature",
     "properties": {
-        "popupContent":"XĂ£ SÆ¡n ThĂ nh, Huyá»‡n SÆ¡n HĂ , Tá»‰nh Quáº£ng NgĂ£i",
+        "popupContent":"XĂ£ SÆ¡n ThĂ nh, Huyá»‡n SÆ¡n HĂ , Tá»‰nh Quáº£ng NgĂ£i"
     },
     "geometry": {
         "type": "MultiPolygon",
@@ -120,7 +120,7 @@
 {
     "type": "Feature",
     "properties": {
-        "popupContent":"XĂ£ SÆ¡n ThÆ°á»£ng, Huyá»‡n SÆ¡n HĂ , Tá»‰nh Quáº£ng NgĂ£i",
+        "popupContent":"XĂ£ SÆ¡n ThÆ°á»£ng, Huyá»‡n SÆ¡n HĂ , Tá»‰nh Quáº£ng NgĂ£i"
     },
     "geometry": {
         "type": "MultiPolygon",
@@ -130,7 +130,7 @@
 {
     "type": "Feature",
     "properties": {
-        "popupContent":"XĂ£ SÆ¡n Thá»§y, Huyá»‡n SÆ¡n HĂ , Tá»‰nh Quáº£ng NgĂ£i",
+        "popupContent":"XĂ£ SÆ¡n Thá»§y, Huyá»‡n SÆ¡n HĂ , Tá»‰nh Quáº£ng NgĂ£i"
     },
     "geometry": {
         "type": "MultiPolygon",
@@ -140,7 +140,7 @@
 
     "type": "Feature",
     "properties": {
-        "popupContent":"XĂ£ SÆ¡n Trung, Huyá»‡n SÆ¡n HĂ , Tá»‰nh Quáº£ng NgĂ£i",
+        "popupContent":"XĂ£ SÆ¡n Trung, Huyá»‡n SÆ¡n HĂ , Tá»‰nh Quáº£ng NgĂ£i"
     },
     "geometry": {
         "type": "MultiPolygon",
